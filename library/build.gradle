@@ -67,7 +67,7 @@ dependencies {
 
     testImplementation 'androidx.test:core:1.4.0'
 
-    implementation 'androidx.lifecycle:lifecycle-extensions:[2.2.0,)'
+    //implementation 'androidx.lifecycle:lifecycle-extensions:[2.2.0,)'
 
     compileOnly 'androidx.fragment:fragment:[1.1.0,)'
 
